@@ -1,5 +1,6 @@
 # <a href="https://wonderful-glacier-0862dbe10.1.azurestaticapps.net">E-Recycle</a>
-
+### Video Demo URL:
+<a href="https://youtu.be/cbaCvxvMYAA">https://youtu.be/cbaCvxvMYAA<a>
 
 
 This Website Guiden the user to promote and learn about waste management by visiting diffrent sections of website and asking their queries to the 
@@ -34,6 +35,6 @@ Azure made smart bot which answers all queries of user related to waste manageme
 
 
 
-<img src="" width="400" height= "250">
-<img src="" width="400" height= "250">
-<img src="" width="350" height= "300">
+<img src="https://github.com/Ujjwal2805/E-Recycle/blob/master/ScreenShots/Screenshot%202022-04-25%20130020.png?raw=true" width="400" height= "250">
+<img src="https://github.com/Ujjwal2805/E-Recycle/blob/master/ScreenShots/Screenshot%202022-04-25%20130138.png?raw=true" width="400" height= "250">
+<img src="https://github.com/Ujjwal2805/E-Recycle/blob/master/ScreenShots/Screenshot%202022-04-25%20130157.png?raw=true" width="350" height= "300">
