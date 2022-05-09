@@ -1,4 +1,4 @@
-# <a href="https://wonderful-glacier-0862dbe10.1.azurestaticapps.net">E-Recycle</a>
+# <a href="https://red-cliff-06db61010.1.azurestaticapps.net">E-Recycle</a>
 ### Video Demo URL:
 <a href="https://youtu.be/cbaCvxvMYAA">https://youtu.be/cbaCvxvMYAA<a>
 
